@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+## Header test
 
 - Bulleted
 - List
@@ -25,6 +26,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Link](http://github.com/)
+![Image](https://www.taylorguitars.com/sites/default/files/styles/multi_column_guitar_three/public/responsive-guitar-detail/Taylor-814ce-fr-2015.png?itok=B3YG3tBf)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
